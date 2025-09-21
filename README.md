@@ -4,6 +4,11 @@ Deepfake Sentinel – Real-Time Fake Media Detector
 
 Deepfake Sentinel is an AI-powered platform designed to detect, explain, and raise awareness about deepfakes in real time.
 
+🌐 Live Demo
+
+🔗 Try it here: Deepfake Sentinel Live
+
+⚠️ Best viewed on desktop for full functionality.
 🚀 Problem Statement
 
 ❗ Deepfakes are used for fraud, disinformation campaigns, and personal harm.
