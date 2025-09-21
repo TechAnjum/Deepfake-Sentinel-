@@ -6,7 +6,7 @@ Deepfake Sentinel is an AI-powered platform designed to detect, explain, and rai
 
 🌐 Live Demo
 
-🔗 Try it here: Deepfake Sentinel Live
+🔗 Try it here: https://deepfake-sentinel-ai-pw9i.bolt.host/
 
 ⚠️ Best viewed on desktop for full functionality.
 🚀 Problem Statement
